@@ -10,7 +10,7 @@ This project is a simple exchange rate calculator that allows users to convert b
 
 ## Getting Started
 1. Clone the repository
-git clone https://github.com/<YOUR_USERNAME>/exchange-rate-calculator.git
+git clone https://github.com/yuliussetyawan/exchange-rate-calculator.git
 2. Open the `index.html` file in your browser
 3. You are now ready to use the calculator.
 
